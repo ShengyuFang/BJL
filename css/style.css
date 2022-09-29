@@ -10261,6 +10261,10 @@ body {
 }
 body > .section {
   flex-grow: 1;
+  background-color: rgba(72,145,199,0.38);
+}
+.footer {
+  background-color: rgba(50,152,220,0.102);
 }
 @media screen and (min-width: 1088px) {
   ::-webkit-scrollbar {
@@ -10964,7 +10968,7 @@ a.article-nav-next span {
 .navbar-main .navbar-item {
   display: flex;
   align-items: center;
-  padding: 1.25rem 0.75rem;
+  padding: 0rem 0.75rem;
   margin: 0 0;
 }
 .navbar-main .navbar-item.is-active {

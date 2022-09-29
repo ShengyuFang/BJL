@@ -10262,6 +10262,10 @@ body {
 }
 body > .section {
   flex-grow: 1;
+  background-color: rgba(72,145,199,0.38);
+}
+.footer {
+  background-color: rgba(50,152,220,0.102);
 }
 @media screen and (min-width: 1088px) {
   ::-webkit-scrollbar {
